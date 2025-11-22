@@ -2,7 +2,7 @@
 <div style="font-size: 15px;">
     → college student interested in full-stack, game, & mobile development ☺︎
     <br/>
-    → here's my <a href="www.linkedin.com/in/andy-tran-3b4248319">linkedin</a>!
+    → here's my <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andy-tran-3b4248319">linkedin</a>!
 </div>
 <br/>
 <div>
