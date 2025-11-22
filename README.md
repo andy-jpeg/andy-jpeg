@@ -5,8 +5,10 @@
     → here's my <a href="www.linkedin.com/in/andy-tran-3b4248319">linkedin</a>!
 </div>
 <br/>
-<img src="gifs/kirby-and-waddle.gif" width=300 alt="kirby and waddle dee friendship bonding">
-<img src="gifs/kirby-bandana-dee.gif" height=198 alt="kirby and bandana dee victory dance">
+<div>
+    <img src="gifs/kirby-and-waddle.gif" width=300 alt="kirby and waddle dee friendship bonding">
+    <img src="gifs/kirby-bandana-dee.gif" width=353 alt="kirby and bandana dee victory dance">
+</div>
 
 ## my recent projects 📀
 <div style="font-size: 15px;">
