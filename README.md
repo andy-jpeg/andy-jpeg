@@ -23,6 +23,7 @@
 <div>
     <img src="icons/lua.svg" width=40 alt="lua icon">
     <img src="icons/python.svg" width=40 alt="python icon">
+    <img src="icons/cpp.svg" width=40 alt="c++ icon">
     <img src="icons/html5.svg" width=40 alt="html5 icon">
     <img src="icons/css3.svg" width=40 alt="css3 icon">
     <img src="icons/javascript.svg" width=40 alt="javascript icon">
