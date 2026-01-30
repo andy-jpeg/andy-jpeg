@@ -12,6 +12,8 @@
 
 ## my recent projects 📀
 <div style="font-size: 15px;">
+    → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/swamphacks_2025">A Ride That Never Ends</a>, a point-and-click turn-based JRPG about two investigators who are tracking down the disappearances in a local town and a mysterious train that only comes at midnight that may likely be connected..
+    <br/>
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/knighthacks_2025">Thanatophobia</a>, an exploration game where you, a detective, trek through an abandoned asylum and start to notice that this place might be more connected to you than you thought..
     <br/>
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/osc_minihack25">The World Beyond Us</a>, a story game about a robot trying to find out its surroundings with an AI-powered environment assisting it throughout the game
