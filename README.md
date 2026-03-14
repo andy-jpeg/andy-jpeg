@@ -12,6 +12,8 @@
 
 ## my recent projects 📀
 <div style="font-size: 15px;">
+    → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/sasehacks_26">Space Buddies</a>, a 3D platformer about a team of little adorable space aliens exploring the galaxies and must make a pit stop to save a nearby planet from being destroyed by an evil organization!!
+    <br/>
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/swamphacks_2025">A Ride That Never Ends</a>, a point-and-click turn-based JRPG about two investigators who are tracking down the disappearances in a local town and a mysterious train that only comes at midnight that may likely be connected..
     <br/>
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/knighthacks_2025">Thanatophobia</a>, an exploration game where you, a detective, trek through an abandoned asylum and start to notice that this place might be more connected to you than you thought..
