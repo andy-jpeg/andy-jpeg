@@ -1,6 +1,6 @@
 # hiya, i'm andy! 🤙
 <div style="font-size: 15px;">
-    → college student interested in full-stack, game, & mobile development ☺︎
+    → college student interested in full-stack / game development, product management, & cloud infrastructure ☺︎
     <br/>
     → here's my <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andy-tran-3b4248319">linkedin</a>!
 </div>
@@ -10,7 +10,7 @@
     <img src="gifs/kirby-bandana-dee.gif" width=353 alt="kirby and bandana dee victory dance">
 </div>
 
-## my recent projects 📀
+## my recent game projects 📀
 <div style="font-size: 15px;">
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/sasehacks_26">Space Buddies</a>, a 3D platformer about a team of little adorable space aliens exploring the galaxies and must make a pit stop to save a nearby planet from being destroyed by an evil organization!!
     <br/>
