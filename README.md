@@ -21,6 +21,4 @@
 </div>
 
 ## my languages & tools 🧑🏻‍💻
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=lua,python,cpp,cs,js,ts,html,css,swift,react,tailwind,express,nextjs,fastapi,supabase,vercel,figma,git,postgresql)](https://skillicons.dev)
