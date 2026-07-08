@@ -2,7 +2,6 @@
 <div style="font-size: 15px;">
     → college student interested in full-stack / game development, product management, & cloud infrastructure ☺︎
     <br/>
-    → here's my <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andy-tran-3b4248319">linkedin</a>!
 </div>
 <br/>
 <div>
@@ -23,14 +22,5 @@
 
 ## my languages & tools 🧑🏻‍💻
 <div>
-    <img src="icons/lua.svg" width=40 alt="lua icon">
-    <img src="icons/python.svg" width=40 alt="python icon">
-    <img src="icons/cpp.svg" width=35 alt="c++ icon">
-    <img src="icons/html5.svg" width=40 alt="html5 icon">
-    <img src="icons/css3.svg" width=40 alt="css3 icon">
-    <img src="icons/javascript.svg" width=40 alt="javascript icon">
-    <img src="icons/typescript.svg" width=40 alt="typescript icon">
-    <img src="icons/react.svg" width=40 alt="react icon">
-    <img src="icons/tailwind.svg" width=40 alt="tailwind css icon">
-    <img src="icons/git.svg" width=40 alt="git icon">
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
