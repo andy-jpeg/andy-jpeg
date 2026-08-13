@@ -11,7 +11,7 @@
 
 ## my recent game projects 📀
 <div style="font-size: 15px;">
-    → <a target="_blank" rel="noopener noreferrer" href="https://andyjpeg.itch.io/shello-world">Shello, World!</a>, a 3D platformer about SH3LLY, a hermit crab crab girl who just got a delivery job at a small island, collecting shells of code for a certain company(?) to keep the beach up and running! All you need to do is help her retrieve, run, and repeat!
+    → <a target="_blank" rel="noopener noreferrer" href="https://andyjpeg.itch.io/shello-world">Shello, World!</a>, a 3D platformer about SH3LLY, a hermit crab crab girl who just got a delivery job at a small island, collecting shells of code for a certain company(?) to keep the beach up and running! all you need to do is help her retrieve, run, and repeat!
     <br/>
     → <a target="_blank" rel="noopener noreferrer" href="https://github.com/andy-jpeg/sasehacks_26">Space Buddies</a>, a 3D platformer about a team of little adorable space aliens exploring the galaxies and must make a pit stop to save a nearby planet from being destroyed by an evil organization!!
     <br/>
