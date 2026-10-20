@@ -1,8 +1,8 @@
 # hiya, i'm andy! 🤙
 <div style="font-size: 15px;">
     → college student interested in game development, product management, & cloud infrastructure ☺︎
-    <br/>
 </div>
+<br/>
 <div>
     <img src="gifs/kirby-and-waddle.gif" width=300 alt="kirby and waddle dee friendship bonding">
     <img src="gifs/kirby-bandana-dee.gif" width=353 alt="kirby and bandana dee victory dance">
